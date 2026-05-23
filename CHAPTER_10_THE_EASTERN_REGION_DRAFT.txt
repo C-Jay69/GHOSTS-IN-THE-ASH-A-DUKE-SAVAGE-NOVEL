@@ -1,0 +1,164 @@
+CHAPTER 10: THE EASTERN REGION
+
+Unwinding a defunct Maryland LLC from Los Angeles at 8 a.m. was the kind of work that looked like nothing from the outside — a man in a hot office with a laptop and cold coffee, running searches through state registration databases and archived grant filings and the thin institutional residue that organizations left when they dissolved or went quiet. It looked like nothing because it was exactly that: the slow recovery of the shape of a thing from the negative space it had left behind.
+
+Pathway Analytics had incorporated in Maryland in March 2013 and had gone quiet in November 2016, which was a three-and-a-half-year operational window — enough time for a pilot, a refinement cycle, and the preparation of a deployment-scale version. The Maryland dissolution record didn't exist: no formal winding-up, no dissolution filing, no state-level notification. The company had simply stopped filing its annual reports. Which meant it had either been absorbed into something else without a public record of the transaction, or its principals had simply stopped maintaining it because they'd moved the operation elsewhere and the Maryland shell was no longer necessary.
+
+The principal's name on the Maryland registration was a law firm in Chevy Chase — a nominee registered agent, the same function that Gerald Mace served for the Nevada LLCs, a professional layer whose entire value was ensuring that the person actually running the operation didn't appear on any filing that a search would naturally surface. I ran the Chevy Chase firm. It listed itself as a compliance and registered agent service for closely-held entities and family offices. Three hundred and forty clients. Pathway Analytics was one of them. I flagged it and moved to the funding records.
+
+Pathway Analytics had received three grants between 2013 and 2015 totaling $2.3 million. Two from the Meridian Community Partners foundation, which I already had. The third from a federal program administered through the Department of Housing and Urban Development — a community continuity assessment framework grant, part of a now-discontinued HUD initiative for data-integration pilot programs in post-industrial urban corridors. The grant application was in the federal archive. I pulled it.
+
+The application named three pilot cities: Baltimore, Detroit, and Youngstown, Ohio. The eastern region hadn't been Baltimore alone. The model had run in three cities simultaneously — each with a different nonprofit partner, each with its own land use attorneys and LLC structures, each with its own data-collection infrastructure built through organizations that served the populations the model was targeting. Three city pilots, three data pipelines, three property extraction mechanisms, all running from 2013 to 2016 under the umbrella of a HUD-funded community continuity framework that had been, in the grant application's language, designed to support vulnerable populations through housing transitions.
+
+I sat with that.
+
+Not a single test. A three-city trial, federally funded, which meant the model's originating architecture had been built by someone with the institutional credentials to win a competitive federal grant — a researcher, an academic, a policy practitioner with the specific language fluency that federal grant applications required and that was not faked; it was either learned through years inside the system or bought through a consultant who had it. The application's lead investigator was listed as an academic institution. Johns Hopkins Bloomberg School of Public Health, Center for Social Policy Research.
+
+Not a company. A university research center.
+
+I had a different kind of thread now. I started pulling at it.
+
+
+SCENE 2 — RAOUL'S TWENTY-THREE
+---------------------------------
+
+We met at a park in El Sereno — Raoul's choice, which meant it was a location he'd used for this kind of conversation before, somewhere with the open sightlines and ambient human activity that made surveillance impractical and made a man with a pickup truck registered to a P.O. box look like he was eating lunch in a park, which was exactly what he was doing. He had a bag from a truck he liked. He'd brought two.
+
+I told him what I'd found. Pathway Analytics. Three cities. The HUD grant. Johns Hopkins.
+
+He listened without interrupting, which was the quality I'd noticed about him at the panadería: he collected information completely before responding to it, which was a discipline that took patience to maintain in a conversation where the instinct was to begin processing in real time. When I finished he was quiet for a moment, eating, looking at the middle distance in the specific way of someone who was not looking at anything but was running something internal.
+
+"The Detroit pilot," he said finally. "There's a labor organizer I know who did warehouse work in the I-94 corridor east of the city. 2015, 2016. The same pattern — properties being assembled through LLC transfers, residents being managed out through what looked like disconnected administrative problems. Nobody connected it at the time because nobody had the data layer. It was just individual bad luck, multiplied." He put down the food. "He moved to Fontana two years ago. He's how I first understood what I was looking at in the Inland Empire wasn't local."
+
+"You knew it had run somewhere else."
+
+"I knew it had the quality of a tested process. The way the mechanism separated the financial transaction from the displacement action by eighteen months — the timing had been calibrated. That kind of calibration doesn't come from the first run." He paused. "I didn't know it was federally funded."
+
+"The HUD grant gave it academic cover. The Johns Hopkins connection gave it peer-reviewed framing. Anyone who looked at Pathway Analytics' documentation would find a legitimate university research partnership and a federal funding source and conclude they were looking at social services infrastructure." I looked at the park around us. A woman pushing a stroller. Two teenagers on a bench. The ordinary operations of a neighborhood that had, somewhere in its housing stock, properties that might currently be in pre-assessment status with Western Land Services equivalents it hadn't heard of yet. "The federal grant ended in 2016. The HUD program was discontinued. But by then the model had been refined through three city pilots and was ready for commercial deployment."
+
+"CivicBridge," Raoul said.
+
+"CivicBridge. Not a pilot. A product."
+
+He was quiet for a moment. Something moved in the careful economy of his face — not surprise, the more specific thing that was adjacent to it: the feeling of a long-held suspicion achieving confirmation and the confirmation being worse than the suspicion had been. "Felix was 2022," he said. "That's six years after the commercial deployment. Six years of the model running in Los Angeles alone." He paused. "Three cities before that, for three years each. Youngstown is smaller — maybe a few hundred properties. Detroit is larger. Baltimore." He did the arithmetic in the silence between sentences. "How many people, total."
+
+I didn't have the number. I told him so.
+
+"But you can get it."
+
+"With the full HUD grant archive and the state LLC databases in Maryland, Michigan, and Ohio. Yes." I paused. "Not in a week."
+
+"No." He looked at the park again. "The twenty-three I have are the ones I know about. The full LA count, with everything in Sarah's spreadsheet and the secondary flag registry — how many?"
+
+"Eight hundred and forty-seven in the Continuity Management system. Active protocols, 312. That's current LA."
+
+He absorbed that. Set it somewhere. "Tell me about Johns Hopkins."
+
+I told him what I had: the lead investigator designation, the academic cover, the grant application language. What I didn't have yet was a name — the PI listed on the grant application was the research center rather than an individual, which was a common federal grant filing practice for institutional projects, and unwinding from the center to the individual required a different kind of search. I was doing it. I'd have a name before the end of the week.
+
+"When you have it," Raoul said, "I want to know."
+
+"You'll know."
+
+He nodded once, gathered the food wrappers with the precision of a man who left no trace because it had become reflexive, and sat for a moment more. "There are three families on my current watch list whose secondary flags are due in the next six weeks. Separate from Marisol." He said it without drama, because the drama wasn't what he was asking for. "If the timeline extends — if what you're building takes months — I need to know so I can position community resources before the flags activate. Legal aid contacts. Alternative housing navigation. Medication access points." He looked at me. "The legal case and the people in the case are running on different timelines."
+
+"I know."
+
+"I need you to know that I know, and that I'm running my timeline regardless of the legal one." He stood. "What you're building matters. It's not the only thing that matters."
+
+He walked to his truck. I sat in the park for another ten minutes, watching the neighborhood do its ordinary operations, thinking about three cities and six years and the arithmetic of a model that had been running somewhere since 2013.
+
+
+SCENE 3 — SANTA MONICA
+------------------------
+
+I drove to Santa Monica because I'd been not driving to Santa Monica for fourteen months and because the proximity marker entry in the Continuity Management system had changed the cost-benefit analysis in a way I couldn't rationalize past. The argument for not going was the same argument it had always been: Julie had been specific about the loop, the demand geometry, the cost of having me in her life. I'd respected the specificity because respecting it was all I could do with it. But I hadn't known, when she'd sent the voicemail, that her name was in a database of potential suppression targets. She hadn't known either. The calculus was different now and I owed her the difference.
+
+Her building in Santa Monica was the clean-lines-and-deliberate-spaces one I'd been to once, fourteen months ago. Third floor. I knew the address the way I knew the detail about the lamp — not through effort, just through the specific retention that applied to certain categories of information when Julie was the subject. I parked on the street and sat in the car for a while.
+
+Her light was on. The third-floor window had the warm stripe of it that she'd had at seven years old in a house in Pasadena and had carried into every apartment she'd lived in since: a lamp in the near-room, a line of light under the far door, the infrastructure of someone who worked late and needed the particular quality of a lit room rather than a screened one. I knew it was hers and not a neighbor's because it was the corner unit and the corner unit was hers and because I was the kind of man who filed the relevant details.
+
+I sat with the phone in my hand for six minutes. Opened her contact. Looked at it.
+
+She'd said: if you call back I'll answer, and I don't trust myself to have this conversation at 3 a.m. What she'd described was a conversation she could have in daylight. It was 6:15 p.m. The conditions were technically correct. I pressed call.
+
+Four rings. Voicemail.
+
+Not missed — chosen. The phone had rung four times, which was one more than most people used to deflect: the fourth ring was a decision made after three rings of consideration. She'd seen my name and let it go to voicemail, which was a clear and honest communication that she'd said what she needed to say in the last message and hadn't changed her position, and I'd needed to hear it.
+
+I didn't leave a message. What I needed to say required a sentence and the sentence required context and the context required the whole case and the whole case required her to be inside it in a way she wasn't equipped for and hadn't consented to. I wasn't calling to explain. I was calling because her name was in a database and I'd wanted her to know that. She hadn't answered. The knowledge would keep.
+
+What wouldn't keep was the proximity marker.
+
+I looked at the lit window for another minute. Thought about the lamp at seven years old, which was a detail I hadn't manufactured and hadn't embellished and which did its structural work every time I touched it, the way a splinter worked: specific, located, unmoving.
+
+Then I started the engine and drove back to the Arts District.
+
+I'd figure out a way to tell her that didn't require her to answer the phone.
+
+
+SCENE 4 — THE CONFERENCE PHOTOGRAPH
+--------------------------------------
+
+The Johns Hopkins Center for Social Policy Research had, in its archived event documentation from 2012, a proceedings record for a symposium on data-driven social service delivery in post-industrial urban environments. The attendee list was partially public — the symposium had been partially federally funded, and the Department of Labor had posted a summary with named participants on its website in 2013, where it had sat in government archive undisturbed since.
+
+Twenty-two participants. Academics, policy practitioners, municipal officials, two representatives from the HUD office that had later funded the Pathway Analytics grant. And three people from the private sector, listed as "technology consultants": two names I recognized as founders of municipal software companies that had since been acquired, and one I didn't.
+
+The name was Daniel Voss.
+
+I ran Daniel Voss through the standard architecture and what came back had the quality of a profile that had been managed: present enough to be credible, thin enough in the specifics to be difficult to follow deeply. An academic affiliation with Johns Hopkins through 2016 — adjunct faculty, Center for Social Policy Research, exactly the center I'd been looking at. A prior institutional role at a Washington D.C. policy organization focused on data governance in public sector service delivery. Publications: two co-authored papers on predictive analytics frameworks for vulnerable population service coordination, both published through the center, both from 2012-2013, both now living in academic archive databases that required an institutional login to access.
+
+And one photograph.
+
+It had been taken at a conference in Chicago in October 2016 — a summit on nonprofit technology and community impact convened by a philanthropic umbrella organization whose annual events were covered in the foundation sector press. The photograph was from a panel session, captured by a conference photographer and posted to the event's archived website, where it had existed in the specific low-visibility permanence of conference documentation that nobody looked at unless they were specifically looking.
+
+The panel was titled: Scaling Social Impact: Data Platforms for Community-Centered Organizations.
+
+In the photograph: four panelists seated at a table with water glasses and name placards. Three of the four I didn't recognize. The fourth was King Kingston, identifiable from his foundation's press materials, the smile in controlled standby because the camera had caught him mid-sentence rather than mid-deployment.
+
+The man next to him had a name placard: DANIEL VOSS, CENTER FOR SOCIAL POLICY RESEARCH.
+
+I looked at the photograph for a long time. Not at Kingston. At Voss.
+
+Fifty, approximately, in the photograph — which put him at fifty-nine or sixty now. The face of someone who had spent decades in institutional environments and had the quality that came from it: not the soft indoor pallor of a man who processed documents, but the specific weathered composure of someone who had sat in enough rooms with enough powerful people to have stopped being affected by either. He had the quality of the man whose name appeared on the grant application — not the man who deployed the model, but the man who had designed it. The academic who had built the framework from peer-reviewed research and then watched it become a commercial product and had apparently decided that the distance between academic research and commercial application was a distinction that served his purposes.
+
+Daniel Voss. Center for Social Policy Research. Johns Hopkins. Academic affiliation ended 2016. One year later, CivicBridge incorporated, Kingdom Cares restructured around a new data-integration model, and the eastern region pilot converted into a commercially deployed suppression platform covering 847 documented individuals in the city of Los Angeles alone.
+
+I had the architect.
+
+I didn't have enough on him yet — a conference photograph and an academic citation trail weren't enough to put in front of Park or Reyes or anyone who could act on it. But I had the name and the connection and the timeline, and those three things were the structure that everything else would build on.
+
+I typed his name into the case file: DANIEL VOSS — JOHNS HOPKINS / CENTER FOR SOCIAL POLICY RESEARCH — CHICAGO CONFERENCE OCTOBER 2016 — PATHWAY ANALYTICS / MERIDIAN COMMUNITY PARTNERS — LCP ARCHITECT.
+
+Looked at it. The case had gone from: find a missing person, to: the person was found and the system that erased her is still running and its architect is an academic who converted peer-reviewed research on vulnerable populations into a commercial suppression platform and is currently protected by a compliance mechanism named Fenn who has offered to let me close the case without touching Voss.
+
+Which was not something I was going to do.
+
+I took the Wednesday pill. Opened the Baltimore research thread. Started building a travel itinerary.
+
+The architect was in the academic record. The academic record was in Baltimore. I was going to Baltimore.
+
+
+================================
+POST-CHAPTER AUDIT — CHAPTER 10: THE EASTERN REGION
+================================
+
+CONSISTENCY — PASS
+Pathway Analytics' three-city pilot consistent with the "Eastern Region Pilot" documentation fragment in Chapter 9. Raoul's Detroit contact provides organic confirmation of the multi-city scope — grounded in Raoul's established labor-organizing background rather than introduced externally. Julie's light-under-the-door detail callbacks to Chapter 1 (the Pasadena house, the Santa Monica apartment) and Chapter 2 (Duke filing it "like a splinter"). Proximity marker entry established in Chapter 8 is the reason for the Santa Monica attempt — cause and effect clean. The .38: present in waistband throughout, not explicitly referenced because no commitment or confrontation moment occurs in this chapter; it's an investigative and emotional chapter. Wednesday pill continues the sequence from Chapter 9.
+
+FLOW — PASS
+Scene 1 (Pathway Analytics) is technical but not dry — the three-city discovery expands the scale, the Johns Hopkins connection reframes the model's origins from criminal enterprise to corrupted academic framework. Scene 2 (Raoul) delivers Murray's supporting character requirement: Raoul's depth extended through the Detroit organizer connection, his parallel timeline work, and his explicit statement that the legal case and the human case run on different clocks. Scene 3 (Santa Monica) is the chapter's emotional center — brief, specific, no sentimentality. Four rings. Chosen voicemail. The lamp. Duke drives home. Scene 4 (the conference photograph) delivers the architect: Daniel Voss, named, connected to Kingston, connected to the academic framework, the full design layer now visible.
+
+LENGTH — PASS
+Approximately 3,400 words.
+
+THEME — PASS
+The academic cover is the chapter's central revelation: the model wasn't designed by criminals, it was designed by a researcher, built from peer-reviewed work on vulnerable populations, and converted into a commercial product with a federal grant's institutional legitimacy as its foundation. The architect didn't break any laws he was aware of breaking. The gap between academic research and its application is where the horror lives — not in malice but in abstraction, in the precise distance that allowed a man to build a suppression system while believing he was building a community impact framework. Raoul's corrective: the legal case and the people in the case run on different timelines, and he's managing both. Duke isn't.
+
+VOICE — PASS
+Scene 1: investigative precision, database literacy in Duke's register. Scene 2: Raoul is the chapter's moral anchor — his question ("how many people, total") is the one the case has been avoiding answering, and Duke can't answer it yet. Scene 3: Julie handled with the economy the character bible requires — specific sensory detail (four rings, the lit window, the lamp at seven years old), no dwelling, no gushing. Duke's voicemail decision isn't heroic or sentimental; it's accurate ("the knowledge would keep"). Scene 4: Chandler lyricism in the conference photograph description; Ellroy staccato in the Voss profile rundown; Thompson paranoia in the specifically undisturbing quality of Voss's managed presence — present enough to be credible, thin enough in specifics to be deliberately difficult.
+
+================================
+END OF CHAPTER 10: THE EASTERN REGION
+Word count: approx. 3,400 words
+================================

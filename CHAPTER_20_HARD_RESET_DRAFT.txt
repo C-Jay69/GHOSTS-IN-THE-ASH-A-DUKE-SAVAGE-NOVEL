@@ -1,0 +1,155 @@
+CHAPTER 20: HARD RESET
+
+
+The flight from Dulles landed at 9:52 p.m. and the city received us the way it received everything — without ceremony, without acknowledgment, the airport's fluorescent infrastructure processing human movement without comment on any individual instance of that movement. Victoria and I retrieved bags, collected the car from long-term parking, and drove to Koreatown because Park had said "before tonight ends" in the register that communicated it was not a suggestion.
+
+The Arts District office first. Not sentiment — the .38 was in the desk drawer where I'd left it, and I needed it back in the waistband before I walked into Park's office or anywhere else. Two days without it had been the specific discomfort of a missing limb: not debilitating, but persistent in the way that absences were persistent when you'd built enough reliance on the absent thing that its absence registered as a physical fact. I unlocked the office, checked the door for re-entry signs out of habit, found none. Whatever the Circuit had wanted from the break-in, they'd gotten it. They weren't coming back for the only thing they'd left.
+
+I took the .38 out of the drawer. Held it for a moment. Cylinder check — not a commitment check, not a threat assessment, just the familiar gesture of something I'd been doing long enough that the gesture itself was a kind of continuity. The rounds were seated. The mechanism was clean. I put it in the waistband where it lived and drove to Koreatown, and the city felt correctly anchored again in a way it hadn't for the last forty-eight hours.
+
+Park's suite was lit at 10 p.m. — the office of a legal operation that had been running on compressed time since the TRO hearing and had not stopped. Her associate was at the workstation outside. In the conference room: four legal pads of handwritten notes, a printed email chain, and a coffee that had been going since morning.
+
+"The DOJ referral was received at 4:47 p.m.," she said. "Civil Rights Division, housing and economic opportunity section. The assigned AUSA is requesting our full evidence package by Friday." She paused. "That's seventy-two hours."
+
+I told her about Voss's twelve pages — she knew the substance from my call, but she needed the document list. She wrote as I talked.
+
+"The civil case doesn't close," she said when I finished. "The stay hearing is in four days. But the federal referral changes the defendants' calculation — they're responding to two parallel proceedings now, and the attorneys who handle federal criminal exposure are not Catherine Vo's team." She paused. "Lyle will know by morning when his counsel monitors the federal docket. At that point, they'll advise him to go completely silent and file a motion to stay any civil discovery that could inform the federal investigation." She looked at me. "Which is why I need the Mace production before that motion gets filed."
+
+"He said three days."
+
+"I'm going to call him at seven tomorrow morning and explain that three days is now twelve hours. He'll understand." She turned to Victoria. "I need your cooperation posture documentation tonight. A signed declaration about your two years at Kingdom Cares, your knowledge of specific protocol authorizations, the circumstances under which you decided to cooperate. Before the federal proffer session, I need everything on paper and under your signature."
+
+"Tonight," Victoria said. Not a question. She looked at Park. "I've been preparing for six years. The paperwork is a formality."
+
+She stayed. I left. In the elevator I looked at the floor display numbers and thought about Voss in Rosslyn, his twelve pages set on the table between us, the weight he'd been carrying for nine years released in the specific way of an irreversible decision: not suddenly lighter, but differently weighted, the load redistributed into forms that were no longer his alone to carry.
+
+My phone rang at the parking level. Raoul. His voice had the controlled quality of someone managing the impulse to lead with the punch line.
+
+
+SCENE 2 — SARAH
+------------------
+
+"She's here," he said. "Came in at nine through the secondary network. Not burned out — she decided to come." A pause. "She has something she's been holding."
+
+The address was in Highland Park — not Voss's satellite map location, a different address. Sarah had moved from location five when the Circuit queried it; she'd known the query was coming before it arrived, which meant her operational intelligence was still intact even at the end of the chalk-mark grid's viable range. The community resource network had done its work.
+
+The house was a craftsman bungalow on a block that had survived the neighborhood's transition by being too specific to the people living in it to be replaced by anything generic. Raoul was in the front room. He handed me a coffee I hadn't asked for and accepted the look on my face as sufficient expression of gratitude.
+
+Sarah was on the couch with the operational stillness I'd come to associate with her — the quality of someone who had been moving through hostile terrain for so long that stillness had become its own form of readiness. She was thinner than the Echo Park meeting had shown. Four weeks of moving between compromised locations in compressed coverage had the specific physical cost of sustained alert without adequate rest.
+
+"You came in voluntarily," I said.
+
+"The federal referral changes the protection architecture," she said. "Federal witness protection is more substantial than TRO coverage in a civil action. The risk-benefit recalculated." A pause. "Also, continuing to move between compromised locations while the federal process develops for another two weeks didn't improve anything for the case or for me."
+
+She handed me a folder. Nineteen pages, organized by quarter, dated and indexed.
+
+"Internal audit reports," she said. "Not from the Beacon Forward extraction. From my four years at Pathway Analytics before the operation moved fully to CivicBridge. These are the system's own quality control documentation — quarterly reports filed by the CivicBridge implementation team confirming that protocol outcomes matched protocol parameters. Confirming that the people in the target populations who were supposed to be displaced were being displaced, and that the authorization chain received those confirmations."
+
+I opened to the first page. Q3 2021. "Implementation Confirmation Report — Pacific Region Protocols." A column of protocol IDs with status designations: CONFIRMED, CONFIRMED, CONFIRMED, PENDING REVIEW, CONFIRMED. At the bottom: Kingston's signature. Three lines above it: a fourteen-character authorization code in the specific format I'd seen in the DataBridge registration documents.
+
+Voss's authorization code.
+
+"He was in the active authorization chain," I said. "Not advisory."
+
+"Through 2021," she said. "The 2022 reports use a Pacific Meridian Partners administrative code instead of an individual. By 2022 they'd moved the authorization to the institutional level and removed his name from the direct chain." A pause. "But through 2021, he was receiving quarterly confirmation of specific protocol executions and signing off on them. Not advising. Approving."
+
+The consulting agreement was significant but arguable — payment for services that could be characterized as academic advisory. The quarterly confirmation signatures meant something else entirely: Voss was in the active authorization chain for specific outcomes. That was operational participation. That was what the federal case needed to place him not at the edge of the conspiracy but inside it.
+
+"Park needs these tonight," I said.
+
+"That's why I came in tonight," she said.
+
+I told Raoul the protection arrangements needed to move to the federal protocol by morning. He said he'd have it done. I looked at Sarah — the stillness, the physical accounting of four weeks of running, the folder in her hands — and understood that she'd been holding those nineteen pages through every chalk-mark location and every compromised safe stop, waiting for the moment when they were most useful rather than simply available.
+
+She'd been right to hold them. The timing was exact.
+
+
+SCENE 3 — THE EVIDENCE
+------------------------
+
+Park picked up on the first ring. She listened without interrupting — the compressed-efficiency mode I recognized as her highest-function register. When I finished, a pause of four seconds.
+
+"The quarterly authorization signatures change Voss's exposure from consulting participant to active operational participant," she said. "His cooperation credit conversation is going to be significantly more complicated than his criminal defense attorney currently believes." A pause. "Bring me the folder. I'll prepare the full evidence package for the AUSA tonight and deliver it first thing tomorrow."
+
+Back to Koreatown. Victoria was still at the conference table when I walked in. Park read the nineteen pages once, slowly, without annotation, then again faster, this time with a pen moving. She handed them to the associate without looking up: "Evidence log." He disappeared.
+
+She was quiet for a moment. The quiet of a lawyer updating the architecture of a case that had just reached its complete evidentiary form.
+
+"The authorization chain runs from Pacific Meridian's commission through to Voss's quarterly sign-off to Kingston's implementation confirmation," she said. "We have the beginning of the chain and the operational layer. The federal grand jury subpoenas the middle — the specific authorization pathway between Pacific Meridian and CivicBridge. They can compel that through corporate records we can't access in civil discovery." She set the pen down. "Duke."
+
+"Yes."
+
+"This is enough." She said it the way she said things that were complete assessments rather than emotional statements — without inflation, without the pause that would have made it feel like a declaration. The structure was viable. The load-bearing elements were in place. "The federal case has what it needs. The civil case has what it needs for the preliminary injunction. From here, the process runs itself." She looked at me. "Go home. Sleep. You've done what you can do."
+
+I said I would. She held my look for a moment. Then: "Good work." She ended it there and turned back to the evidence log, because Park delivered that kind of thing attached to a conclusion with no room for it to be acknowledged or deflected, which was how she delivered it when she meant it.
+
+I walked to the elevator. Got as far as the parking lot.
+
+My phone rang. The number wasn't in my contacts but the Santa Monica area code was one I'd been paying careful attention to from the specific distance of someone who knew what the number meant and had been deciding when to close the distance.
+
+I answered.
+
+"I need to see you," Julie said. "Tonight, or early tomorrow — I don't care which. In person. I have questions that aren't phone questions." A pause. Her voice had the flatness of someone who had made a decision and was past the point where it was a decision. "I know you said stay out of it. I found myself in it before you asked me to."
+
+I stood in the Koreatown parking lot. The marine layer was full over the city now, the amber glow diffused through it, the specific Los Angeles night that looked like a bruise from a height and like a painting from street level depending on what you needed it to look like. The .38 at my waist. The case running on its own momentum toward a federal proceeding I couldn't accelerate and couldn't attend. For the first time in three weeks, I had nothing to run toward.
+
+Which meant the only thing remaining was the thing I'd been running alongside for three weeks without looking at directly.
+
+"I'll come now," I said.
+
+She was quiet for a moment. "I know where you've been," she said. "I always can."
+
+"I know," I said. "I'll be there in forty minutes."
+
+I drove west.
+
+
+SCENE 4 — THE DRIVE
+---------------------
+
+The 10 West at midnight had the quality the daytime version didn't — the infrastructure visible without the people, the function without the story attached to the function, the city between its performance hours running its actual maintenance. I'd driven it in bad faith a hundred times. This was neither bad faith nor good. This was the drive you took when the accounting you'd been deferring finally presented the bill and you understood, without rancor, that it was accurate.
+
+Julie was in Santa Monica because Santa Monica was the part of Los Angeles that was closest to the water and farthest from the Arts District, which was a geography I'd understood when she'd chosen it years ago without either of us saying anything about the distance it put between us. Clear air when the marine layer wasn't full in. Enough space from the city's operational center to maintain the functional detachment that her work required and that my presence periodically disturbed.
+
+I pulled into the parking structure and sat for a moment. The last time I'd been here was the night I'd slid the warning note under her mail slot, stood in the corridor for thirty seconds listening to the building's ambient sound, and then driven back to the Arts District and left the phone face-down and tried to decide whether not calling was protection or cowardice. I'd never been able to separate those two, which was probably the most accurate diagnostic of my entire operating history.
+
+The case was done, for my purposes. The federal referral was filed. Sarah was in protection. Marisol was the named plaintiff in a complaint now in the federal docket. The quarterly authorization signatures were in Park's evidence log. Voss had a criminal defense attorney and nineteen days before the first proffer session. What came next was process — subpoenas, depositions, the grinding machinery of federal prosecution that moved on its own timeline and didn't need a private investigator once it was running.
+
+For the first time in three weeks, I had nothing operational between me and the other thing.
+
+I went up. Knocked.
+
+She opened the door. Same jaw as mine. Same eyes. The same material organized by different decisions, by different years, by different choices about which direction to face when the world got complicated. She was holding a mug of tea. Behind her, through the apartment, the multiple screens were running — her world, alive, processing, doing things with the information it received.
+
+On the coffee table, visible from the doorway, printed on a single sheet of plain paper:
+
+SAVAGE, J. — PROXIMITY MARKER, FLAG ID 4471. SECONDARY PROTOCOL REVIEW PENDING.
+
+She'd printed it. She'd set it where I'd see it when I came in.
+
+"I've had that for eleven weeks," she said. "Come in."
+
+
+================================
+POST-CHAPTER AUDIT — CHAPTER 20: HARD RESET
+================================
+
+CONSISTENCY — PASS
+The .38 retrieved on return to the office — the analog anchor restored after the forty-eight-hour absence, consistent with the established pattern (its absence marks vulnerability, its return marks reorientation). The DOJ referral filed while Duke was in Arlington, consistent with Park's timeline established in Chapter 19. Mace's production window compressed from three days to twelve hours by the federal docket timing — consistent with Park's strategic methodology. Sarah comes in voluntarily when the protection geometry improves — consistent with her established operational intelligence about risk-benefit calculations throughout the novel. The Highland Park address different from Voss's satellite map location: she moved from location five when the Circuit queried it, which Voss had predicted in Chapter 19. The quarterly authorization signatures distinguish Voss's operational participation from consulting participation — the smoking gun that makes the cooperation credit conversation more complicated, consistent with Chapter 19's disclosure. Julie's direct call is the chapter's emotional turn: she's been tracking the Circuit independently, found the flag herself, has been watching what Duke was doing for eleven weeks.
+
+FLOW — PASS
+Scene 1 (The Return) grounds the chapter in physical reorientation — the .38 retrieved, Park briefed, the federal case confirmed as received. Victoria's cooperation posture established as the chapter's parallel track. Scene 2 (Sarah) is the evidence beat: Sarah comes in voluntarily with the quarterly authorization signatures, the document that moves Voss from advisory to operational in the authorization chain. The timing of her delivery is itself a character moment — she held those pages through every compromised safe stop, waiting for the exact moment they were most useful. Scene 3 (The Evidence) converts the authorization signatures into the case's final evidentiary assessment — "this is enough" delivered as complete architectural confirmation. Scene 4 (The Drive) is the chapter's emotional hinge: Julie's call, the midnight drive to Santa Monica, the proximity flag visible from the doorway. The chapter ends with the door opening and the flag already on the table — the confrontation's physical staging established before it begins.
+
+LENGTH — PASS
+Approximately 3,400 words.
+
+THEME — PASS
+"Hard Reset" operates on two registers simultaneously. The case resets into its correct institutional container — the federal proceeding, the permanent record, the process that runs without Duke's operational involvement once it's running. And the personal resets: Julie has been inside the same architecture Duke has been investigating for eleven weeks, independently, from a different angle. She didn't tell him. She was right not to. The flag that marks her as a proximity risk to the Circuit is also the evidence that the Circuit's reach has been personal since before Duke took the case — the distinction between the case and the personal has been false from the beginning. "I found myself in it before you asked me to" is the chapter's turning line: she was already in it. The question of whether it was always going to come to this conversation is not asked. It doesn't need to be.
+
+VOICE — PASS
+Scene 1: the .38 check on retrieval described as familiarity rather than ceremony — the Ellroy staccato applied to the routine as a way of establishing that Duke is functional, not dramatic. Park's "this is enough" and "good work" delivered in the same breath, end-capped immediately, which is exactly Park's register. Scene 2: Sarah's operational intelligence expressed through her explanation of why she came in now — professional assessment, no drama. The quarterly reports described through their content and their authorization structure, the Voss code recognized from the DataBridge registration. Scene 3: the evidence triage spare and precise. Scene 4: the midnight drive described as the city between performance hours — Chandler's lyricism applied to infrastructure rather than sentimentality. Julie's call delivered in one line that contains the entire chapter's emotional weight: "I found myself in it before you asked me to."
+
+================================
+END OF CHAPTER 20: HARD RESET
+Word count: approx. 3,400 words
+================================
