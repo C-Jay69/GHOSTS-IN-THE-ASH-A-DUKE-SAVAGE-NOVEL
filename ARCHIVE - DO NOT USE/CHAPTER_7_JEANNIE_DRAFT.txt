@@ -1,0 +1,202 @@
+CHAPTER 7: JEANNIE
+
+Raoul had said two gap-category locations remained viable. He'd used the word viable the way engineers used it — not good, not safe, but operationally functional within acceptable parameters. He hadn't given me the addresses because he hadn't known them: Sarah had been running her own location architecture without full disclosure even to him, which was either good operational security or evidence that she didn't fully trust anyone, including the man she'd left a dead drop for in a corner market on Cesar Chavez. Both could be true. They usually were.
+
+What I had was the method.
+
+She'd described it to Estrada in enough detail that the market owner had absorbed it as a fact: she'd been mapping the city's structural review pipeline, looking for spaces in gap categories, between administrative states. I had access to the same pipeline through the city's building and safety database, which was publicly accessible for anyone with a research license and the patience to parse the notation system, which read like a bureaucratic dialect that had been designed by a committee tasked specifically with discouraging readership.
+
+I ran the pipeline for the previous eight months. Structural reviews initiated but not completed. Properties in pending administrative status — not cleared for occupancy, not scheduled for demolition, not listed for sale, not in active code enforcement. The gap between categories. Spaces that existed in bureaucratic suspension, noticed by the system but not yet processed by it, invisible to anyone who wasn't specifically looking for what wasn't there.
+
+The search returned forty-seven properties across the city.
+
+I filtered by Raoul's operational criteria: proximity to transit (she'd need to move without a car), proximity to food access (she'd need to sustain herself), not adjacent to active development (construction crews generated unwanted eyes). Twelve properties remained.
+
+I filtered again by geography: she'd left the Culver City building moving, and moving people in Los Angeles moved along corridor logic — the routes that were natural to someone without a car, on foot or bus, avoiding the kind of street-level exposure that came from standing at a stop for twenty minutes in a neighborhood where standing at a stop for twenty minutes made you visible. The routes that went east, away from the tighter surveillance density of the westside, toward the parts of the city that had the specific quality of being observed without being seen. Three properties remained after the geography filter.
+
+I drove the three.
+
+The first was a former dental office in Koreatown, structurally reviewed for water damage, its front windows intact and its back access recently padlocked with a lock that showed no wear — new, installed for someone, which would have been encouraging except that the padlock was the wrong brand. Sarah had used a Master combination at the Culver City location. This was a keyed deadbolt. Different operational signature.
+
+The second was a converted storefront in Pico-Union — actually converted, meaning someone had started the work, run out of permits or money, and left it in the suspended state that generated a structural review flag. The flag was eight months old. The space had been inhabited recently: a cleared area near the back wall, a section of floor swept in the same pattern as the Culver City threshold, a small pile of debris in the corner that was too organized to be accidental abandonment.
+
+She'd been here. She wasn't here now.
+
+I checked the front window's line of sight. She would have been visible from the street if the window coverings weren't right. The window coverings were right: brown paper, interior-applied, the same method as Culver City. I looked at the corners of the paper. The tape was old. She'd been here longer than the Culver City location.
+
+I looked for what she'd left.
+
+She hadn't left a dead drop here. No envelope, no sealed package, no arrangement for the market on the corner. Either she'd had to leave without time to set one, or this location was different — a location she'd used and moved from without a forwarding architecture, which would mean she hadn't expected anyone to be close enough to track her here, which would mean I'd gotten here through the pipeline analysis rather than through the trail she'd laid.
+
+She hadn't planned for me to find this one.
+
+Which meant the third location was where she'd intended to be found. I drove it.
+
+
+SCENE 2 — THE THIRD LOCATION
+--------------------------------
+
+The third property was a former community health clinic in Echo Park — a single-story structure that had closed eighteen months earlier when its operating nonprofit had lost its city contract, been flagged for an HVAC system deficiency by building and safety, entered pending structural review status, and been quietly absorbed into the portfolio of a property management company whose ultimate owner was, through three layers of LLC, a Nevada entity whose registered agent I did not yet recognize but whose naming pattern I did: High Sierra Holdings VII.
+
+She'd chosen to hide inside a property the Circuit was already processing. The same logic as the Culver City print shop: she'd put herself inside the machine's administrative attention to use the attention as cover. If the system was already monitoring the property for structural review completion, any additional monitoring activity would blend into the existing profile. She wasn't avoiding the system's sight. She was hiding in its peripheral vision.
+
+The back entrance had a Master combination lock.
+
+I knocked twice. Waited. Knocked once.
+
+Silence.
+
+Then from inside, a sound I placed as deliberate before I'd fully parsed it: a single knock from the interior, at knee height, on the door itself. Not a person at a handle. A person maintaining distance from the door while signaling through it. The knock of someone who had spent enough time in threat environments to know that the door was where you were most exposed and who had learned to communicate through it rather than at it.
+
+"Duke Savage," I said. Kept my voice at the register that didn't carry past the door but communicated in the vicinity of normal human speech. "I was in the Culver City building four days after you left. I got the envelope from Estrada. I talked to Raoul."
+
+A pause that lasted long enough to be a decision rather than a hesitation.
+
+The lock turned.
+
+
+SCENE 3 — WHAT SHE KNOWS
+---------------------------
+
+She was not what the surveillance photographs had prepared me for, because photographs taken by systems that catalogued faces as cargo had no interest in the qualities that weren't legible in a face: the specific alertness of a person who had been living in continuous operational risk long enough to develop a nervous system recalibrated for it, the economy of movement of someone who conserved energy because energy was a resource with a finite supply and she'd been managing it carefully for eight months, the quality of attention she directed at me from the moment the door opened that was not fear but assessment — the same assessment I'd seen in Marisol Reyes's apartment and in Raoul Cruz's eyes at the panadería, the assessment of people who had learned through recent and specific experience that the category "person at my door" required careful reading before a response was produced.
+
+She looked at me. Read what she found. Made a decision.
+
+"You found this location through the pipeline," she said. Not a question.
+
+"Three filters. Transit access, geography, operational signature."
+
+Something in her face registered — not surprise, but the specific recalibration of someone whose estimate of another person had just been revised upward. "Sit down," she said.
+
+The space was stripped to function: a cot along the back wall, a folding table with a laptop, an external battery pack, three water bottles in a row, a backpack that had the compressed density of something organized for rapid departure. No personal items visible except for one: a photograph, wallet-sized, placed face-down on the table. I didn't look at it. She'd put it face-down because she kept it present but didn't need it visible, which was its own kind of information.
+
+She sat at the table. I took the floor, cross-legged, which put me below her sightline to the door and communicated something about my threat status that was accurate and that she registered.
+
+"How long do we have," I said.
+
+"In this location? Days, maybe. They haven't flagged it yet — I would know. The structural review status hasn't changed in the past 72 hours, which is the indicator I'm watching." She pulled the laptop toward her without opening it. "What do you have?"
+
+I told her. Kingdom Cares, Gerald Mace, the Western Land Services chain, Kingston's board positions, the county social services director at the gala, Ashworth's logistics investment connection. The fourteen properties in her spreadsheet now cross-referenced against their current development status — ten of the fourteen had either broken ground or were in active planning for logistics or distribution facilities. The property transfer mechanism, the LLC network, the secondary flag protocol, the maintenance cycle.
+
+She listened the way people listened when they were verifying rather than receiving — cross-referencing what I was saying against what she already knew, noting where my data filled gaps and where it diverged from her own. When I finished she was quiet for a moment.
+
+"The county social services director," she said.
+
+"He has her card."
+
+"Her name is Chen. She runs the county's integrated database coordination office — it's a coordination layer between twelve different county agencies' data systems. If Kingston gets direct access to that office, he doesn't need his foundation's intake forms anymore. He can query the county's combined data infrastructure directly. Forty-three thousand active service recipients in the Inland Empire corridor alone." She opened the laptop. Turned it toward me.
+
+What I was looking at was a database architecture diagram — the internal systems map of Beacon Forward's data infrastructure, extracted in the three weeks before the system had noticed her. In the center of the map, a program node labeled CONTINUITY MANAGEMENT. Lines running from it to six other nodes: three Beacon Forward internal databases, one county housing navigation interface, one city social services integration platform, one private-sector API with a label I didn't recognize.
+
+"That's the Circuit's operational name for the suppression protocol," she said. "Continuity Management. It runs inside Beacon Forward's system as a standard case management tool — it looks like a workflow application for managing client continuity through service transitions. It's not. It's the mechanism for coordinating the secondary flags. The service disruptions, the credit anomalies, the medication lapses. Every action the Circuit runs on a flagged person routes through this program. Beacon Forward is the hub. Every nonprofit in their partner network is a spoke."
+
+"How many partners."
+
+She showed me a list. Thirty-one nonprofits, service providers, and municipal data-sharing partners connected to the Continuity Management hub. Thirty-one organizations that operated their own legitimate social services, whose staff had no knowledge of what the backend was doing with the data their client interactions generated, and whose good-faith operations provided both the data and the institutional cover for what the mechanism was running through them.
+
+"Kingston doesn't run Continuity Management directly," she said. "He's the infrastructure. He built the network of nonprofits and the county partnerships that give the mechanism access to the population. But the program itself is operated by someone else — someone technical, someone with the capability to build and maintain a system that operates inside legitimate software as an invisible layer." She paused. "I don't have that name."
+
+"Do you have enough to expose the mechanism."
+
+She looked at me the way people looked at a question that was both fair and insufficient. "I have enough to describe the mechanism to someone who could act on it. I don't have enough to survive the act of describing it through any channel the Circuit can reach." She closed the laptop. "Which is all of them. Every official channel. Every media organization with a digital footprint. Every nonprofit that does this kind of work. They're all inside the system or adjacent to it." A pause that was not discouragement but inventory. "What I have is the architecture. What I need is someone outside the system who can use it."
+
+"That's what Victoria Cross hired me for."
+
+She looked at me for a long moment. "Victoria is complicated."
+
+"I noticed."
+
+"She was inside the system. She did what she did to me." She said it without drama, the way people stated facts they'd already fully processed and had decided not to spend additional energy on. "She's also the person who told me about the secondary flag timeline before anyone else could have known I needed to know it. She told me in a way that gave me enough time to move." Another pause. "I don't know what she is now. Neither do you."
+
+I didn't argue. I thought about the bruise on the left wrist and the $15,000 table at the Kingdom Cares gala and the two facts sitting in the same person like load-bearing walls that supported different structures.
+
+She reached under the folding table and produced a USB drive. "The full Beacon Forward extraction. The Continuity Management architecture. Every data point I pulled before they started the suppression sequence. It's encrypted — I'll give you the key verbally, once, here. You don't write it down." She held it. "And you tell me what happens to it."
+
+I told her. She listened. Made another decision.
+
+She gave me the drive. Read the key to me once, at a pace that assumed a first-read retention I was capable of producing. I held it in working memory while she watched me confirm it.
+
+"I need to find you again," I said.
+
+"I know." She looked toward the door. "The photograph on the table. You didn't look at it."
+
+"No."
+
+"It's my mother," she said. "I've been carrying it for eight months because I haven't been able to call her." A pause so brief it was almost not there. "They ran a flag on her phone records six months ago. Standard secondary flag — nothing that affected her life, just a marker in her communications metadata that signals to the circuit's monitoring system when her number is active. If I call her, they know I called." The pause again, slightly longer this time. "Tell me something useful for finding me."
+
+I thought about it. "The pipeline has four more properties in viable gap status. The next most likely, given your corridor logic and your history with this area, is in Glassell Park — former printing operation, structural review flagged eleven months ago, back access off the alley." I gave her the address. "If you're there, same knock sequence."
+
+She looked at me. Read something in the offer.
+
+"Go," she said.
+
+
+SCENE 4 — THE CIRCUIT CLOSES
+-------------------------------
+
+I was three steps from the back door when her laptop pinged.
+
+Not a notification sound — a tone I recognized because I'd heard its equivalent in my own security setup: the specific alert of a monitoring program that had registered a change in the observed system's status. She was tracking the property's structural review flag in real time.
+
+"How fast," I said.
+
+She was already at the table. Reading the screen. "The status changed forty seconds ago. Administrative review complete. Property cleared for entry pending asbestos inspection." She looked up. Her face had the navigational calm of someone who had done this before and had developed the specific adaptation of not spending time on the panic that would consume the time she needed for the action. "They don't know I'm in it. They just cleared the review status, which means someone filed the completion paperwork, which means someone was paid to expedite it, which means whoever is watching the gap-category list has been watching this property for at least a week."
+
+"Or they were watching me run the pipeline search."
+
+A beat. "Yes."
+
+She was already packing the backpack with the compressed efficiency of a person for whom this was a practiced motion. Laptop, battery pack, water. The photograph — she picked it up without looking at it and put it in the front pocket. She was done in forty-five seconds. She didn't look around the room. She'd already internalized what she was leaving.
+
+"The alley exits north or south," I said.
+
+"South." She had the geography. "There's a bus stop on Glendale in three minutes."
+
+"Take it. Anywhere. Get off after four stops and get on a different line."
+
+She was at the door. She stopped. Turned back. What she said was not something she'd planned to say — it had the texture of something that surfaced despite rather than through a decision.
+
+"My mother's name is Linda. She lives in Alhambra. If something happens to me before this resolves—" She stopped. Let the conditional stand without completing it. "She doesn't know what I've been doing. She thinks I'm in a difficult work situation."
+
+"I'll keep that," I said.
+
+She went out the south end of the alley.
+
+I gave her ninety seconds. Checked the front of the property through the gap in the brown paper — a car had parked on the block in the three minutes I'd been inside that hadn't been there when I'd arrived, the specific neutral-gray sedan that operational vehicles became when someone was trying to make them disappear into the urban texture and hadn't quite managed it. I went out the back door, locked it behind me with the combination she'd left set, walked north through the alley at the pace of a man who lived on this block and was taking out recycling, turned west on the first surface street, and kept walking for four blocks before getting back to my car.
+
+The USB drive was in my jacket pocket. The encryption key was in working memory. The clock on both was whatever it took for the system to determine that the property had been vacated and begin the next maintenance step.
+
+I drove back to the Arts District. Parked. Sat in the car with the drive in my hand and thought about Jeannie Chu, who had spent eight months carrying a photograph of her mother face-down so she could keep it present without looking at it, who had been living in successive administrative gaps with a backpack she could pack in forty-five seconds, who knew more about the Circuit's operational architecture than anyone I'd spoken to and was more thoroughly trapped inside its maintenance cycle than anyone I'd been able to locate.
+
+She was smart enough to have built the escape route before she needed it and careful enough not to tell me what it was.
+
+I went upstairs. Plugged the drive into an air-gapped machine I kept for exactly this category of material — physical gap, no network connection, no wireless capability, the kind of paranoia that required an initial investment in hardware and a subsequent investment in the discipline not to deviate from it. Started copying the files.
+
+Then I opened a blank document and typed a name: Linda Chu. Alhambra.
+
+Filed it where I kept the things that cost more than I had.
+
+
+================================
+POST-CHAPTER AUDIT — CHAPTER 7: JEANNIE
+================================
+
+CONSISTENCY — PASS
+Gap-category methodology established in Chapter 3 (Raoul's description of Sarah's search for administrative blind spots) applied here as Duke's investigative method — the pipeline search is the direct continuation of that information. Three locations searched; two show previous habitation; third is active. USB drive and encryption key introduced cleanly without technical overclaiming. The .38 present throughout (in waistband), not explicitly referenced in the final scenes because the threat environment is departure-pace rather than confrontation — Duke is moving, not committing.
+
+FLOW — PASS
+Scene 1 is methodical and precise (pipeline filtering rendered in plain language rather than technical jargon). Scene 2 is terse — the arrival, the knock sequence, the door — because the tension is in what comes next, not in the approach. Scene 3 carries the chapter's weight: Sarah/Jeannie as a full character rather than a mission objective; the Continuity Management revelation; the Victoria Cross complication; the USB exchange. Scene 4 is a controlled exit under pressure — the structural review status ping as the mechanism closing, Sarah's departure as competence under duress, the final quiet beat with Linda Chu's name.
+
+LENGTH — PASS
+Approximately 3,500 words.
+
+THEME — PASS
+Jeannie Chu finally becomes a person rather than a file. The photograph of her mother, carried face-down for eight months, is the chapter's emotional center — arrived at through accumulation rather than declaration. The Continuity Management revelation extends the Circuit's architecture from the property-transfer mechanism to the full suppression network: thirty-one nonprofits, a technical operator Duke doesn't yet have a name for, and the county integration layer that Kingston is now acquiring through the gala's social engineering. Murray's midsection failure requirement: Duke gets the drive but loses Sarah — the prize and the person remain separated.
+
+VOICE — PASS
+Jeannie Chu's dialogue is precise, economical, and free of jargon — she speaks in the plain language of someone who has spent months translating institutional language into its actual meaning and has no interest in performing it. Duke's register around her is quieter than with other characters — more concrete, fewer flourishes. Julie's register applied to Jeannie by structural parallel: another woman Duke is failing to protect, another specific detail (the photograph, face-down) doing the work that sentiment would otherwise require. Chandler lyricism: Alhambra, Linda Chu, the things that cost more than he had. Ellroy staccato: the departure sequence, the pipeline filter, the operational vehicle spotted through the brown paper. Thompson paranoia: the pipeline search possibly triggering the structural review flag, the air-gapped machine, the gap between the key in working memory and the clock on both.
+
+================================
+END OF CHAPTER 7: JEANNIE
+Word count: approx. 3,500 words
+================================
